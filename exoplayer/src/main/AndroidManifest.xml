@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.androidpi.app.bricks.exoplayer">
+
+    <application>
+        <activity android:name=".ExoPlayerActivity">
+            <meta-data android:name="type" android:value="@string/activity_type_portal"/>
+        </activity>
+    </application>
+
+</manifest>

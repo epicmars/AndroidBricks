@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Gallery</string>
+
+    <string name="save">保存</string>
+
+    <string name="loading">加载中...</string>
+
+    <!-- 图像 -->
+    <string name="imageview_description">缩略图</string>
+    <string name="clear_cache">清除缓存</string>
+    <string name="toast_clear_cache_complete">清除缓存完成</string>
+    <string name="edit_photo">编辑图像</string>
+    <string name="clip">裁剪</string>
+
+</resources>

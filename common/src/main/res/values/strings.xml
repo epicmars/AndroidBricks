@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Common</string>
+
+    <string name="activity_type_portal">activity_type_portal</string>
+</resources>

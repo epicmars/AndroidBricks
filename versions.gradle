@@ -1,0 +1,27 @@
+ext {
+    version_code = 1
+    version_name = '1.0.0'
+
+    // android
+    compile_sdk_version = 28
+    target_sdk_version = 28
+    min_sdk_version = 16
+
+    // android plugin
+    android_plugin_version = '2.3.2'
+
+    // android support library
+    android_support_version = '28.0.0'
+
+    // lifecycle architecture
+    arch_lifecycle_version = '1.1.1'
+    arch_lifecycle_ext_version = '1.1.1'
+    arch_lifecycle_compiler_version = '1.1.1'
+
+    // room
+    arch_room_version = '1.0.0'
+
+    // dagger
+    dagger2_version = "2.15"
+
+}

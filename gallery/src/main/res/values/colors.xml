@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!-- 背景色 -->
+    <color name="bg_dark">#FF424242</color>
+    <!-- 前景色 -->
+    <color name="fg_black">#66000000</color>
+
+    <!-- 基本色彩 -->
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="grey">#9E9E9E</color>
+    <color name="red">#F44336</color>
+    <color name="orange">#FF9800</color>
+    <color name="yellow">#FFEB3B</color>
+    <color name="green">#4CAF50</color>
+    <color name="blue">#2196F3</color>
+    <color name="indigo">#3F51B5</color>
+    <color name="purple">#9C27B0</color>
+    <color name="transparent">#00000000</color>
+
+    <!-- red -->
+    <color name="red_2">#EF9A9A</color>
+
+    <!-- light blue -->
+    <color name="lb_2">#81D4FA</color>
+    <color name="lb_9">#01579B</color>
+
+    <!-- light green -->
+    <color name="lg_2">#C5E1A5</color>
+
+    <!-- yellow -->
+    <color name="yellow_2">#FFF59D</color>
+
+    <!-- grey -->
+    <color name="grey_2">#EEEEEE</color>
+    <color name="grey_3">#E0E0E0</color>
+    <color name="grey_6">#757575</color>
+
+    <!-- UI相关色彩 -->
+    <!-- 列表项 -->
+    <color name="item_list_selected">@color/grey_3</color>
+    <color name="item_list_normal">@color/white</color>
+    <color name="grid_state_pressed">#1Affffff</color>
+    <color name="grid_state_focused">#80000000</color>
+
+    <!-- 文字颜色 -->
+    <color name="text_black">#EF111111</color>
+
+    <!-- 文字背景色 -->
+    <color name="text_bg_t_black">#75000000</color>
+    <color name="text_bg_t_white_thumbnail">#4Fffffff</color>
+    <color name="text_bg_t_grey">#EEE2E2E2</color>
+    <color name="text_bg_t_yellow">#EEFFF59D</color>
+    <color name="text_bg_t_blue">#EE81D4FA</color>
+</resources>

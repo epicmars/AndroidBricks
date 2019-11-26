@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 文字大小 -->
+    <dimen name="t_micro">12sp</dimen>
+    <dimen name="t_small">14sp</dimen>
+    <dimen name="t_medium">18sp</dimen>
+    <dimen name="t_large">22sp</dimen>
+    <dimen name="t_app_name_32">32sp</dimen>
+    <dimen name="t_label_18">18sp</dimen>
+    <dimen name="t_content_16">16sp</dimen>
+
+    <!-- 布局（模板定义） -->
+    <dimen name="zero">0dp</dimen>
+    <dimen name="mg_item_list_48dp">@dimen/item_list_height_48dp</dimen>
+    <dimen name="mg_huge_64dp">64dp</dimen>
+    <dimen name="mg_large_32dp">32dp</dimen>
+    <dimen name="mg_medium_16dp">16dp</dimen>
+    <dimen name="mg_small_8dp">8dp</dimen>
+    <dimen name="mg_tiny_4dp">4dp</dimen>
+    <dimen name="margin_left">@dimen/mg_medium_16dp</dimen>
+    <dimen name="margin_right">@dimen/mg_medium_16dp</dimen>
+    <dimen name="margin_top">@dimen/mg_medium_16dp</dimen>
+    <dimen name="margin_bottom">@dimen/mg_medium_16dp</dimen>
+    <dimen name="pd_medium_16dp">16dp</dimen>
+    <dimen name="pd_small_8dp">8dp</dimen>
+    <dimen name="padding_left">@dimen/pd_medium_16dp</dimen>
+    <dimen name="padding_right">@dimen/pd_medium_16dp</dimen>
+    <!-- 控件 -->
+    <dimen name="btn_corner_radius">2dp</dimen>
+
+    <!-- 列表 -->
+    <dimen name="item_list_height_64dp">64dp</dimen>
+    <dimen name="item_list_height_48dp">48dp</dimen>
+    <dimen name="item_list_height_medium">@dimen/item_list_height_48dp</dimen>
+    <dimen name="item_list_height_large">@dimen/item_list_height_64dp</dimen>
+    <dimen name="item_list_height_small">32dp</dimen>
+    <dimen name="item_list_height_micro">16dp</dimen>
+
+    <!-- 图像 -->
+    <dimen name="pic_large_100dp">100dp</dimen>
+    <dimen name="pic_large_64dp">64dp</dimen>
+    <dimen name="pic_medium_48dp">48dp</dimen>
+    <dimen name="pic_small_32dp">32dp</dimen>
+
+    <dimen name="image_thumbnail_size">@dimen/pic_large_100dp</dimen>
+    <dimen name="image_thumbnail_spacing">1dp</dimen>
+
+    <!--  -->
+    <!-- Semantic definitions语义定义 -->
+
+    <dimen name="horizontal_page_margin">@dimen/mg_medium_16dp</dimen>
+    <dimen name="vertical_page_margin">@dimen/mg_medium_16dp</dimen>
+
+    <!-- dialog -->
+    <dimen name="dialog_fixed_width">320dp</dimen>
+    <dimen name="dialog_fixed_height">100dp</dimen>
+
+    <!-- 纸张效果层级 -->
+    <dimen name="paper_elevation_2">2dp</dimen>
+</resources>

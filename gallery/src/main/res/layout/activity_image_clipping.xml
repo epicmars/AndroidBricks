@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <com.androidpi.bricks.gallery.ClippingImageView
+            android:id="@+id/iv_image"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="matrix"
+            app:clipAreaRatio="75%"/>
+
+        <LinearLayout
+            android:id="@+id/ll_clip_btns"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:clickable="true"
+            android:orientation="horizontal"
+            android:visibility="gone">
+
+            <TextView
+                android:id="@+id/tv_clip_image"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/item_list_height_48dp"
+                android:layout_weight="1"
+                android:background="@drawable/selector_bg_text_black_transparent"
+                android:gravity="center"
+                android:text="@string/clip"
+                android:textColor="@color/white"/>
+
+            <TextView
+                android:id="@+id/tv_save_image"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/item_list_height_48dp"
+                android:layout_weight="1"
+                android:background="@drawable/selector_bg_text_black_transparent"
+                android:gravity="center"
+                android:text="@string/save"
+                android:textColor="@color/white"/>
+        </LinearLayout>
+
+    </FrameLayout>
+</layout>
